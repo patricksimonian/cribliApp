@@ -1,0 +1,32 @@
+.button {
+  padding: 10px 20px;
+  transition: color .15s ease-in-out;
+  -webkit-box-shadow: 2px 2px 2px 0px rgba(72, 72, 72, 0.39);
+  -moz-box-shadow: 2px 2px 2px 0px rgba(72, 72, 72, 0.39);
+  box-shadow: 2px 2px 2px 0px rgba(72, 72, 72, 0.39);
+  border-radius: 2px;
+  border: 0;
+  letter-spacing: 1px;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 1em;
+  background-color: #1c1d21;
+  color: #fff;
+}
+
+.button.main {
+  background-color: #0B5563;
+  color: #fff;
+}
+
+.light {
+  font-weight: 300;
+}
+
+.heavy {
+  font-weight: 600;
+}
+
+.medium {
+  font-weight: 400;
+}

@@ -1,0 +1,101 @@
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:20:20.083Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:20:21.366Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:21:06.207Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:21:19.113Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:26:20 +0000] \"GET /users/signin HTTP/1.1\" 404 151 \"-\" \"curl/7.56.0\"\n","timestamp":"2017-11-20T00:26:20.422Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:27:03 +0000] \"GET /users/signup HTTP/1.1\" 404 151 \"-\" \"curl/7.56.0\"\n","timestamp":"2017-11-20T00:27:03.153Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:27:20.390Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:27:24 +0000] \"GET /users/signup HTTP/1.1\" 404 151 \"-\" \"curl/7.56.0\"\n","timestamp":"2017-11-20T00:27:24.343Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:27:49.662Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:27:50 +0000] \"GET /users/signup HTTP/1.1\" 200 2 \"-\" \"curl/7.56.0\"\n","timestamp":"2017-11-20T00:27:50.097Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:27:52 +0000] \"GET /users/signup HTTP/1.1\" 200 2 \"-\" \"curl/7.56.0\"\n","timestamp":"2017-11-20T00:27:52.456Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:28:02.206Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:28:02 +0000] \"GET /users/signup HTTP/1.1\" 200 14 \"-\" \"curl/7.56.0\"\n","timestamp":"2017-11-20T00:28:02.626Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:28:33.994Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:29:04.572Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:29:13.083Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:29:16.862Z"}
+{"level":"info","message":"request made to /signup","timestamp":"2017-11-20T00:29:17.771Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:29:17 +0000] \"GET /users/signup HTTP/1.1\" 200 14 \"-\" \"curl/7.56.0\"\n","timestamp":"2017-11-20T00:29:17.777Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:29:51.787Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:30:21.360Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:30:33.849Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:31:21 +0000] \"POST /users/signup HTTP/1.1\" 400 1129 \"-\" \"curl/7.56.0\"\n","timestamp":"2017-11-20T00:31:21.026Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:31:44 +0000] \"POST /users/signup HTTP/1.1\" 200 14 \"-\" \"curl/7.56.0\"\n","timestamp":"2017-11-20T00:31:44.511Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:33:31 +0000] \"PUT /users/signup HTTP/1.1\" 404 151 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:33:31.655Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:34:08.005Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:34:12 +0000] \"POST /users/signup HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:34:12.354Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:34:15 +0000] \"POST /users/signup HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:34:15.159Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:34:15 +0000] \"POST /users/signup HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:34:15.864Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:34:16 +0000] \"POST /users/signup HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:34:16.386Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:34:16 +0000] \"POST /users/signup HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:34:16.799Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:34:38 +0000] \"POST /users/signup HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:34:38.081Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:35:24 +0000] \"POST /users/signup?username=blah&pw=supersecretpw HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:35:24.512Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:36:17 +0000] \"POST /users/signup?username=blah&pw=supersecretpw HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:36:17.153Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:36:22 +0000] \"POST /users/signup HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:36:22.656Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:36:38 +0000] \"POST /users/signup HTTP/1.1\" 200 14 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:36:38.560Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:37:04.935Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:37:09 +0000] \"POST /users/signup HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:37:09.355Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:38:19 +0000] \"POST /users/signup HTTP/1.1\" 200 70 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:38:19.161Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:40:50.004Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:40:54.051Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:41:31.600Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:41:39.015Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:41:55.371Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:54:09.336Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:54:41.613Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:54:42.357Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:54:49.095Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:55:13 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:55:13.527Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:55:35 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:55:35.949Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:55:40 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:55:40.395Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:55:53 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:55:53.855Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:56:04.412Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:56:07 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:56:07.609Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:56:09 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:56:09.524Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:56:24 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:56:24.724Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:56:33 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:56:33.264Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:56:34 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:56:34.871Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:56:59.265Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:57:01 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:57:01.864Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:57:12 +0000] \"POST /users/signup HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:57:12.568Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:57:46.879Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T00:58:12.341Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:00:58:25 +0000] \"POST /users/signup HTTP/1.1\" 200 4 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T00:58:25.712Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T01:20:01.968Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T01:25:00.842Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T01:25:25.196Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:01:25:28 +0000] \"POST /users/signup HTTP/1.1\" 403 33 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T01:25:28.911Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T01:25:50.661Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:01:26:05 +0000] \"POST /users/signup HTTP/1.1\" 200 216 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T01:26:05.510Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T01:27:23.264Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T01:38:58.485Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T01:39:11.516Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T01:39:23.158Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:01:39:27 +0000] \"PUT /users/login HTTP/1.1\" 200 216 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T01:39:27.566Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:01:39:27 +0000] \"PUT /users/login HTTP/1.1\" 200 216 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T01:39:27.883Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-11-20T01:39:38.332Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:01:39:46 +0000] \"PUT /users/signup HTTP/1.1\" 403 33 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T01:39:46.016Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:01:39:50 +0000] \"PUT /users/signup HTTP/1.1\" 200 216 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T01:39:50.152Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:01:39:58 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T01:39:58.614Z"}
+{"level":"info","message":"::1 - - [20/Nov/2017:01:40:02 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-11-20T01:40:02.885Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-12-09T17:10:31.612Z"}
+{"level":"info","message":"::1 - - [09/Dec/2017:17:10:37 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-09T17:10:37.350Z"}
+{"level":"info","message":"::1 - - [09/Dec/2017:17:10:47 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-09T17:10:47.265Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-12-09T17:11:52.804Z"}
+{"level":"info","message":"::1 - - [09/Dec/2017:17:12:02 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-09T17:12:02.823Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-12-09T17:12:20.488Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-12-09T17:12:22.622Z"}
+{"level":"info","message":"::1 - - [09/Dec/2017:17:12:24 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-09T17:12:24.806Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-12-09T17:13:52.081Z"}
+{"level":"info","message":"::1 - - [09/Dec/2017:17:13:53 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-09T17:13:53.189Z"}
+{"level":"info","message":"::1 - - [09/Dec/2017:17:14:00 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-09T17:14:00.935Z"}
+{"level":"info","message":"::1 - - [09/Dec/2017:17:14:01 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-09T17:14:01.681Z"}
+{"level":"info","message":"::1 - - [09/Dec/2017:17:14:20 +0000] \"PUT /users/login HTTP/1.1\" 200 216 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-09T17:14:20.559Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-12-09T17:14:43.179Z"}
+{"level":"info","message":"::1 - - [09/Dec/2017:17:14:52 +0000] \"PUT /users/signup HTTP/1.1\" 403 33 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-09T17:14:52.283Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-12-10T23:00:34.550Z"}
+{"level":"info","message":"listening on port 8080","timestamp":"2017-12-10T23:00:58.820Z"}
+{"level":"info","message":"::1 - - [10/Dec/2017:23:01:04 +0000] \"PUT /users/signup HTTP/1.1\" 200 216 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-10T23:01:04.357Z"}
+{"level":"info","message":"::1 - - [10/Dec/2017:23:01:24 +0000] \"PUT /users/login HTTP/1.1\" 401 36 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-10T23:01:24.500Z"}
+{"level":"info","message":"::1 - - [10/Dec/2017:23:01:32 +0000] \"PUT /users/login HTTP/1.1\" 200 216 \"-\" \"PostmanRuntime/6.4.1\"\n","timestamp":"2017-12-10T23:01:32.528Z"}

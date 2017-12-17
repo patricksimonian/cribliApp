@@ -1,0 +1,71 @@
+#sidebar-main {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 55px;
+  height: 100%;
+  z-index: 5;
+  background-color: #3e4963;
+  color: #fff;
+  font-size: 16px;
+}
+
+.sidebar-section {
+  padding: 5px;
+}
+
+.sidebar-upper {
+  height: 60%;
+}
+
+.sidebar-lower {
+  width: 60%;
+}
+
+.nav-icon-action {
+  font-size: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  transition: color .15s ease-in-out, transform .10s ease-in-out;
+  background: none;
+  border: none;
+
+}
+.nav-icon-action:not(:first-child) {
+  margin: 10px;
+}
+.nav-icon-action:focus,
+.nav-icon-action:active,
+.nav-icon-action:visited {
+  color: inherit;
+  outline: none;
+}
+.nav-icon-action:hover {
+  color: #b1e1ff;
+  transform: translateX(2px);
+}
+
+.action-text {
+  font-size: .4em;
+  letter-spacing: 1px;
+  margin-top: 5px;
+}
+.nav-icon-wrap {
+  position: relative;
+}
+.nav-icon-wrap.menu-close .nav-icon-menu {
+  display: none;
+}
+.nav-icon-wrap.menu-open .nav-icon-menu {
+  display: flex;
+}
+
+.nav-icon-menu {
+  position: fixed;
+  left: 55px;
+  top: 0;
+  background: #1B5299;
+}
+

@@ -1,0 +1,26 @@
+.nav-icon-action {
+  font-size: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  transition: color .15s ease-in-out, transform .10s ease-in-out;
+}
+.nav-icon-action:not(:first-child) {
+  margin: 10px;
+}
+.nav-icon-action:focus,
+.nav-icon-action:active,
+.nav-icon-action:visited {
+  color: initial;
+}
+.nav-icon-action:hover {
+  color: #6e01dd;
+  transform: translateX(2px);
+}
+
+.action-text {
+  font-size: .4em;
+  letter-spacing: 1px;
+  margin-top: 5px;
+}

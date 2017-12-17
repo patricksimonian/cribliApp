@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with the right amount of icons 1`] = `
+<nav
+  id="sidebar-main"
+>
+  <div
+    className="sidebar-upper sidebar-section"
+  >
+    <div
+      className="nav-icon-wrap"
+    >
+      <a
+        className="nav-icon-action"
+        href=""
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-sign-in"
+        />
+        <span
+          className="action-text"
+        >
+          sign-in
+        </span>
+      </a>
+    </div>
+    <div
+      className="nav-icon-wrap"
+    >
+      <a
+        className="nav-icon-action"
+        href=""
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-rocket"
+        />
+        <span
+          className="action-text"
+        >
+          monies
+        </span>
+      </a>
+    </div>
+  </div>
+  <div
+    className="sidebar-lower sidebar-section"
+  />
+</nav>
+`;

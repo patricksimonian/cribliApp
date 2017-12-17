@@ -1,0 +1,21 @@
+#nav-login-window {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 16px;
+}
+#nav-login-window header {
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+#nav-login-window form {
+
+}
+
+.nav-form-group {
+
+}
